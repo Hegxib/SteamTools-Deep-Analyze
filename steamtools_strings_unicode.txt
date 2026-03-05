@@ -1,0 +1,365 @@
+﻿-noverifyfiles
+steamclient64.dll
+-notunlock
+Global_SteamtoolsIPC_Class
+Software\Valve\Steam\Apps\
+steam://run/tool
+Global\Valve_SteamIPC_Class
+)Global_UnlockedIPC_Class
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+ Steamtools</h2>
+, %1</p>
+<p>2020-2024 Stemtools
+<p>Stemtools
+ Steam
+<p><a href='https://www.steamtools.net'
+</a></p>
+<p><a href='https://bbs.steamtools.net'
+</a></p>
+<p><a href='https://t.me/steamtool'
+ Telegram</a></p
+0 Appid
+ Steam
+"Steamtools Lua
+( Steam
+O Stea
+O SteamU
+ Steam
+M Steam
+ Steam
+e Steam
+Steam I
+"Steamtools
+Steamtools
+d %1(%2
+ Steam
+ Steam
+ Steam
+-... (%1%
+ Steamtool
+ SteamTool
+( Steam
+ SteamD
+d %1(%2)
+d %1(%2)
+ Steam
+ Steam
+/ Stea
+ Steam
+ Steam
+b Steam
+ Steam
+ Steam
+ %1 %2
+xxyyyy
+xxyyyy
+wwwwvvuuut
+yyyywwwwvvuuut
+xxyyyy
+wwwwvvuuut
+yyyyruuut
+wwwwvvuuut
+xxyyyy
+Pwwwwvvuuut
+xxyyyy
+wwwwvvuuut
+wwwwvvuuut
+xxyyyy
+vvuuut
+GGwwwwvvuuut
+xxyyyy
+wwwwvvuuut
+xxyyyy
+wwwwvvuuut
+wwwwvvuuut
+xxyyyy
+xxyyyy
+wwwwvvuuut
+wwwwvvuuut
+xxyyyy
+xxyyyy
+wwwwvvuuut
+77GGwwwwvvuuut
+xxyyyy
+xxyyyy
+wwwwvvuuut
+wwwwvvuuut
+xxyyyy
+xxyyyywwwwvvuuut
+wwwwvvuuut
+xxyyyy
+xxyyyy
+xxyyyy
+99wwwwvvuuut
+,,wwwwvvuuut
+wwwwvvuuut
+xxyyyy
+wwwwvvuuut
+EEjj55
++,-./0123456789
++,-./0123456789
+fghijklmnop;
+p6789fghijklmnop+,-./0123456789
+fghijklmnopH
+6789:lmnop
+fghijklmnop+,-./0123456789
+Cfghijklmnop;
++,-./0123456789
+fghijklmnop
+fghijklmnop+,-./0123456789
+jklmnop
+fghijklmnopp
+dvwxyz{|
++,-./0123456789
+fghijklmnop
+Q+,-./0123456789
+fghijklmnopjkv;
+fghijklmnop+,-./0123456789
+d+,-./0123456789t
+xfghijklmnop
+stustu
+fghijklmnop+,-./0123456789
++,-./0123456789
+xfghijklmnop;
+fghijklmnop+,-./0123456789
+stustu
++,-./0123456789
+fghijklmnop
+fghijklmnop+,-./0123456789
+-./0123456789fghijklmnop
+*fghijklmnop
++,-./0123456789
+A+,-./0123456789
++,-./0123456789
+fghijklmnop;
+fghijklmnop#
+.fghijklmnop
+rstuJwt
+,-./0123456789
+fghijklmnop;c?
+$$$$$(n
+BBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBBBB
+BBBBBBBB
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+!$).056;>ACENQVZZ^ceiow{{{~
+out of memory
+bad parameter or other API misuse
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+         (((((                  H
+         (((((                  H
+      (                          
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-fibers-l1-1-2
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-file-l2-1-4
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernelbase
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+IDI_ICON1
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+steamtools.net
+FileDescription
+Steamtools
+FileVersion
+1.8.1.5
+ProductVersion
+1.0.0.0
+LegalCopyright
+Copyright (C) 2024 steamtools.net
+OriginalFilename
+Steamtools.exe
+ProductName
+Steamtools
+InternalName
+SteamTools.exe
+VarFileInfo
+Translation
