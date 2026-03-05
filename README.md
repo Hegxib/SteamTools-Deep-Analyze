@@ -1,4 +1,4 @@
-# SteamTools v1.8.30 — Complete Deep Analysis & Exposure Report
+# SteamTools v1.8.30 - Complete Deep Analysis & Exposure Report
 
 > **Analysis Date:** March 5, 2026
 > **Analyst:** Automated Static Analysis (no execution)
@@ -6,7 +6,50 @@
 > **Classification:** Game Piracy Tool with Remote Code Execution Backdoor
 > **Threat Level:** HIGH
 
+## Support
+
+Have you ever met a guy that refuses to take free money? Neither did i, Buy me a Ko-Fi :D
+
+https://ko-fi.com/hegxib
+
+Etherium: 0x83Cc0fe051bEf3c8D7633665F165fd9E1AFb10fC
+
+BTC: bc1qppajze80mq8wcrap0ym00mch0w8z6qvpcscku2
+
+Solana: B4HgYSahtRA9gqmKJG1GL677WJcLi8idUpXbz6ztdTkN
+
+Other? contact@hegxib.me
+
+Contact legal@hegxib.me For Removal Requests.
+
+Official Website www.hegxib.me
+
+Blogs at www.hegxib.me/blog
 ---
+
+> [!WARNING]
+> # ⚠️ SECURITY & LEGAL RESEARCH DISCLOSURE ⚠️
+>
+> **This document is published strictly for cybersecurity research, public transparency, and educational awareness.**
+>
+> ---
+>
+> | | |
+> |---|---|
+> | 🔬 **Purpose** | Independent binary analysis & threat intelligence research |
+> | 👤 **Audience** | Security researchers, IT professionals, and informed end-users |
+> | ⚖️ **Legal** | Possession and/or use of `st-setup-1.8.30.exe` may violate the DMCA, CFAA (US), Computer Misuse Act (UK), and equivalent laws in your jurisdiction |
+> | 🚫 **Not Endorsed** | The author (Hegxib) does **not** endorse, distribute, or support the use of this software |
+> | 💀 **Risk Level** | **CRITICAL** — This tool contains a remote code execution backdoor, Steam credential harvesting, and piracy mechanisms |
+> | 🇨🇳 **Origin** | Developed and maintained from China — update servers resolve to Chinese IP infrastructure |
+> | 🎮 **Steam ToS** | Use of this tool results in **permanent Steam account termination** and loss of all legitimately purchased games |
+>
+> ---
+>
+> > *"All findings presented in this report are derived solely from static binary analysis. No cracked games were accessed, no piracy was performed, and no Steam accounts were compromised during this research."*
+>
+> **By reading this document you acknowledge it is intended for defensive security purposes only.**
+
 
 ## Table of Contents
 
@@ -991,4 +1034,8 @@ Business ID: 91430103MADWKFRYXD (Changsha, Hunan, China)
 
 ---
 
-*This report is provided for educational and security research purposes. The analysis was conducted on a file already present in the research workspace. No software was executed during this analysis.*
+*This report is provided for educational and security research purposes. The analysis was conducted on a file already present in the research workspace. No software was executed during this analysis. I (Hegxib) Not Responsible for any misuse.*
+
+---
+
+## Made By WWW.HEGXIB.ME (HxB) - WWW.X.HEGXIB.ME - 2026 - All Rights Reserved.
